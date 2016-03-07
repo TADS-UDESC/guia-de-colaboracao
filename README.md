@@ -1,6 +1,6 @@
 # Guia geral de colaboração ![TADS UDESC](https://img.shields.io/badge/TADS-UDESC-brightgreen.svg)
 
-Cada usuário adicionado na organização vem por padrão com as permissões de `read` em todos os repositórios. Para colaborar, basta criar um `fork` do projeto para o seu perfil pessoal, criar uma branch baseado na **master**, alterar o que desejar e abrir um pull request para a branch master da organização!  </br>
+Cada usuário adicionado na organização vem por padrão com as permissões de `read` em todos os repositórios. Para colaborar, basta criar um [fork](https://help.github.com/articles/fork-a-repo/) do projeto para o seu perfil pessoal, criar uma branch baseado na **master**, alterar o que desejar e abrir um [pull request](https://help.github.com/articles/using-pull-requests/) para a branch master da organização!  </br>
 
 Teremos como premissa para mergear os pull requests obter a avaliação de pelo menos uma pessoa que faça parte da organização. </br>
 
