@@ -1,4 +1,4 @@
-# Guia geral de colaboração
+# Guia geral de colaboração ![TADS UDESC](https://img.shields.io/badge/TADS-UDESC-brightgreen.svg)
 
 Cada usuário adicionado na organização vem por padrão com as permissões de `read` em todos os repositórios. Para colaborar, basta criar um `fork` do projeto para o seu perfil pessoal, criar uma branch baseado na **master**, alterar o que desejar e abrir um pull request para a branch master da organização!  </br>
 
